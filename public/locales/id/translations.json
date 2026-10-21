@@ -16,10 +16,9 @@
   "partners": "Mitra Peluncuran",
   "sponsors": "Didukung dan disponsori oleh:",
   "support": "Bantuan",
-  "profile": {
-    "showLess": "Tampilkan lebih sedikit",
-    "showMore": "Tampilkan lebih banyak"
-  },
+  "profile": "Profil Saya",
+  "profile.showLess": "Tampilkan lebih sedikit",
+  "profile.showMore": "Tampilkan lebih banyak",
   "profile.noUser": "Pengguna tidak ada",
   "settings": "Daftar Pengaturan",
   "block-mute": "Daftar Blokir/Bisu",
@@ -193,9 +192,7 @@
   "and": "dan",
   "backToTop": "Kembali ke atas",
   "bridge": "Bridge",
-  "cart": {
-    "title": "Keranjang"
-  },
+  "cart.title": "Keranjang",
   "claim slot": "Klaim daftar",
   "close": "Tutup",
   "connect to see more": "Hubungkan dompetmu untuk mulai menggeser!",
@@ -214,13 +211,11 @@
   "faq": "FAQ",
   "feed": "Feed onchain",
   "feed description": "Aktivitas onchain terbaru dari orang yang kamu ikuti di EFP",
-  "followersYouKnow": {
-    "and": "dan",
-    "followThem": "mengikuti mereka",
-    "followsThem": "mengikuti mereka",
-    "oneOtherFollows": "kenalanmu mengikuti mereka",
-    "othersFollow": "kenalanmu lainnya mengikuti mereka"
-  },
+  "followersYouKnow.and": "dan",
+  "followersYouKnow.followThem": "mengikuti mereka",
+  "followersYouKnow.followsThem": "mengikuti mereka",
+  "followersYouKnow.oneOtherFollows": "kenalanmu mengikuti mereka",
+  "followersYouKnow.othersFollow": "kenalanmu lainnya mengikuti mereka",
   "foundation description": "Follow Protocol Foundation adalah organisasi nirlaba yang berdedikasi untuk memajukan ekosistem Ethereum.",
   "foundation title": "Follow Protocol Foundation",
   "goBack": "Kembali",
@@ -245,20 +240,12 @@
   "language name in English": "Indonesian",
   "language name in language": "Bahasa Indonesia",
   "leaderboard description": "Kontes popularitas kripto tanpa akhir, onchain!",
-  "listSettings": {
-    "resetList": "Atur ulang daftar"
-  },
-  "manualAdd": {
-    "accountNotFound": "Akun tidak ditemukan"
-  },
+  "listSettings.resetList": "Atur ulang daftar",
+  "manualAdd.accountNotFound": "Akun tidak ditemukan",
   "meh": "Biasa",
-  "modal": {
-    "cancelTransactions": {
-      "confirm": "Batalkan semua",
-      "description": "Apakah kamu yakin ingin membatalkan semua transaksi yang tertunda?",
-      "title": "Batalkan semua transaksi"
-    }
-  },
+  "modal.cancelTransactions.confirm": "Batalkan semua",
+  "modal.cancelTransactions.description": "Apakah kamu yakin ingin membatalkan semua transaksi yang tertunda?",
+  "modal.cancelTransactions.title": "Batalkan semua transaksi",
   "mouse left action": "Tarik dan geser kiri (TIDAK)",
   "mouse right action": "Tarik dan geser kanan (Ikuti)",
   "mouse title": "Mouse",
@@ -266,23 +253,19 @@
   "no sounds": "Tanpa suara",
   "noData": "Tidak ada data",
   "nope": "TIDAK",
-  "notifications": {
-    "block": "memblokir kamu",
-    "empty": "Tidak ada notifikasi",
-    "error": "Gagal memuat notifikasi",
-    "follow": "mengikutimu",
-    "mute": "membisukan kamu",
-    "tag": "menandai kamu dengan",
-    "title": "Notifikasi",
-    "unblock": "membuka blokir kamu",
-    "unfollow": "berhenti mengikutimu",
-    "unmute": "membatalkan bisukan",
-    "untag": "menghapus tanda"
-  },
+  "notifications.block": "memblokir kamu",
+  "notifications.empty": "Tidak ada notifikasi",
+  "notifications.error": "Gagal memuat notifikasi",
+  "notifications.follow": "mengikutimu",
+  "notifications.mute": "membisukan kamu",
+  "notifications.tag": "menandai kamu dengan",
+  "notifications.title": "Notifikasi",
+  "notifications.unblock": "membuka blokir kamu",
+  "notifications.unfollow": "berhenti mengikutimu",
+  "notifications.unmute": "membatalkan bisukan",
+  "notifications.untag": "menghapus tanda",
   "qr code": "Kode QR",
-  "recommended": {
-    "empty": "Tidak ada profil yang direkomendasikan"
-  },
+  "recommended.empty": "Tidak ada profil yang direkomendasikan",
   "refresh ens": "Muat ulang ENS",
   "reset slot message": "Apakah kamu yakin ingin mengatur ulang Daftar? Ini akan mengosongkan daftarmu dan mengembalikan semua peran ke alamat dompetmu. Tindakan ini tidak dapat dibatalkan.",
   "retry": "Coba lagi",
@@ -291,28 +274,24 @@
   "sfx & music": "Efek suara & musik",
   "signInWithEthereum": "Masuk dengan Ethereum",
   "signingMessage": "Menandatangani pesan...",
-  "summary": {
-    "changeChain": "Ganti rantai",
-    "insufficientEth": "ETH tidak cukup di",
-    "on": "di",
-    "txn": "txn",
-    "txns": "txns"
-  },
+  "summary.changeChain": "Ganti rantai",
+  "summary.insufficientEth": "ETH tidak cukup di",
+  "summary.on": "di",
+  "summary.txn": "txn",
+  "summary.txns": "txns",
   "swipe": "Geser!",
   "swipe description first": "Temukan teman baru onchain.",
   "swipe description second": "Geser kanan untuk Ikuti, geser kiri untuk TIDAK.",
   "swipe title": "Geser!",
   "team description": "Berkomitmen menghadirkan identitas onchain melalui tumpukan identitas Ethereum, kami membangun Ethereum Follow Protocol dan Ethereum Identity Kit.",
   "team title": "Tim",
-  "transaction": {
-    "claimPOAP": "Klaim POAP",
-    "claimPOAPDescription": "Selamat! Kamu mendapatkan POAP karena menjadi pengguna awal EFP.",
-    "claimPOAPTitle": "Klaim POAP-mu",
-    "noThanks": "Tidak, terima kasih",
-    "selectChainLater": "Kamu selalu bisa mengubahnya nanti",
-    "switchChain": "Ganti rantai",
-    "updateListSettings": "Perbarui pengaturan daftar"
-  },
+  "transaction.claimPOAP": "Klaim POAP",
+  "transaction.claimPOAPDescription": "Selamat! Kamu mendapatkan POAP karena menjadi pengguna awal EFP.",
+  "transaction.claimPOAPTitle": "Klaim POAP-mu",
+  "transaction.noThanks": "Tidak, terima kasih",
+  "transaction.selectChainLater": "Kamu selalu bisa mengubahnya nanti",
+  "transaction.switchChain": "Ganti rantai",
+  "transaction.updateListSettings": "Perbarui pengaturan daftar",
   "undo": "Batalkan",
   "unique users": "Minter unik",
   "viewAll": "Lihat semua"
